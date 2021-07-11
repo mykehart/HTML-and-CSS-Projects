@@ -1,0 +1,17 @@
+/*=============================================
+    Author: Myke Hart
+===============================================
+    Basic Styles
+===============================================*/
+
+html {
+    font-family:sans-serif;
+    font-size:15px;
+}
+
+#home {
+    width:100%;
+    margin:0% auto;
+    border:1px solid #fff;
+    border-radius:8px;
+}
