@@ -9,7 +9,7 @@ These are the projects that I have created for the HTML and CSS course.
  
  <h2>Hyrule Travel Project:</h2>
  <p>
-  <br>This page is an example home page for a Legend of Zelda themed travel compant. It was styled using HTML and CSS. It contrains elements such as a navbar, a form and image containers.</p>
+  <br>This page is an example home page for a Legend of Zelda themed travel company. It was styled using HTML and CSS. It contrains elements such as a navbar, a form and image containers.</p>
   
   <h2>Movie Theater Site:</h2>
   <p>
